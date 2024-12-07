@@ -1,0 +1,24 @@
+# Virtual environment folder
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and debugging files
+*.log
+
+# IDE files (for common editors)
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency files (optional if you're generating requirements.txt)
+pip-wheel-metadata/
+*.egg-info/
